@@ -1,13 +1,30 @@
-# AnalytIQ Projecten
-Welkom bij AnalytIQ's data-analyse repository. Hier beheren we projecten voor klanten en ontwikkelen we inzichten.
+# Kaggle Notebooks Repository
 
-## Mappenstructuur
-- `/data` : Publieke datasets
-- `/notebooks` : Analyse in Jupyter Notebooks
-- `/scripts` : Automatisering en scripts
-- `/reports` : Resultaten en visuele rapporten
+This repository contains Kaggle notebooks from various data science and machine learning projects. Each notebook demonstrates different techniques, models, and analyses applied to a variety of datasets available on Kaggle.
 
-## Hoe bij te dragen
-1. Fork deze repository.
-2. Maak een branch voor je wijzigingen.
-3. Dien een pull request in. 
+## Contents
+
+Below is an overview of the notebooks included in this repository:
+
+### 1. [Project Name "Fast.ai - Is it a bird?"]
+- **Notebook Name:** `Fast.ai - Is it a bird?.ipynb`
+- **Description:** Brief overview of the project, dataset, and techniques used.
+- **Key Topics:** E.g., Data Cleaning, Exploratory Data Analysis (EDA), Regression Models.
+
+### 2. [Project Name 2]
+- **Notebook Name:** `notebook_name_2.ipynb`
+- **Description:** Brief overview of the project, dataset, and techniques used.
+- **Key Topics:** E.g., Classification, Feature Engineering, Hyperparameter Tuning.
+
+### 3. [Project Name 3]
+- **Notebook Name:** `notebook_name_3.ipynb`
+- **Description:** Brief overview of the project, dataset, and techniques used.
+- **Key Topics:** E.g., Clustering, Visualization, Deep Learning.
+
+*(Add more projects as needed.)*
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnalytIQ-BE/Kaggle.git
